@@ -1,0 +1,101 @@
+Serial No,bookID,title,authors,average_rating,language_code,isbn,#num_pages,ratings_count,likedPercent,isbn13
+1,2767052-the-hunger-games,The Hunger Games,Suzanne Collins,4.33,English,9.78E+12,374,6376780,96.0,9.78E+12
+2,2.Harry_Potter_and_the_Order_of_the_Phoenix,Harry Potter and the Order of the Phoenix,"J.K. Rowling, Mary GrandPré (Illustrator)",4.5,English,9.78E+12,870,2507623,98.0,9.78E+12
+3,2657.To_Kill_a_Mockingbird,To Kill a Mockingbird,Harper Lee,4.28,English,1.00E+13,324,4501075,95.0,1.00E+13
+4,1885.Pride_and_Prejudice,Pride and Prejudice,"Jane Austen, Anna Quindlen (Introduction)",4.26,English,1.00E+13,279,2998241,94.0,1.00E+13
+5,41865.Twilight,Twilight,Stephenie Meyer,3.6,English,9.78E+12,501,4964519,78.0,9.78E+12
+6,19063.The_Book_Thief,The Book Thief,Markus Zusak (Goodreads Author),4.37,English,9.78E+12,552,1834276,96.0,9.78E+12
+7,170448.Animal_Farm,Animal Farm,"George Orwell, Russell Baker (Preface), C.M. Woodhouse (Introduction)",3.95,English,9.78E+12,141,2740713,91.0,9.78E+12
+8,11127.The_Chronicles_of_Narnia,The Chronicles of Narnia,"C.S. Lewis, Pauline Baynes (Illustrator)",4.26,English,1.00E+13,767,517740,96.0,1.00E+13
+9,30.J_R_R_Tolkien_4_Book_Boxed_Set,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,J.R.R. Tolkien,4.6,English,9.78E+12,1728,110146,98.0,9.78E+12
+10,18405.Gone_with_the_Wind,Gone with the Wind,Margaret Mitchell,4.3,English,9.78E+12,1037,1074620,94.0,9.78E+12
+11,11870085-the-fault-in-our-stars,The Fault in Our Stars,John Green (Goodreads Author),4.21,English,1.00E+13,313,3550714,93.0,1.00E+13
+12,386162.The_Hitchhiker_s_Guide_to_the_Galaxy,The Hitchhiker's Guide to the Galaxy,Douglas Adams,4.22,English,1.00E+13,193,1436325,94.0,1.00E+13
+13,370493.The_Giving_Tree,The Giving Tree,Shel Silverstein,4.37,English,9.78E+12,64,905731,94.0,9.78E+12
+14,6185.Wuthering_Heights,Wuthering Heights,"Emily Brontë, Richard J. Dunn (Editor), David Timson (Narrator), Charlotte Brontë (Commentary), Robert Heindel (Illustrator)",3.86,English,9.78E+12,464,1342664,88.0,9.78E+12
+15,968.The_Da_Vinci_Code,The Da Vinci Code,Dan Brown (Goodreads Author),3.86,English,1.00E+13,489,1933446,89.0,1.00E+13
+16,929.Memoirs_of_a_Geisha,Memoirs of a Geisha,Arthur Golden,4.12,English,9.78E+12,503,1717312,95.0,9.78E+12
+17,5297.The_Picture_of_Dorian_Gray,The Picture of Dorian Gray,"Oscar Wilde, Jeffrey Eugenides (Introduction)",4.08,English,1.00E+13,272,966196,94.0,1.00E+13
+18,24213.Alice_s_Adventures_in_Wonderland_Through_the_Looking_Glass,Alice's Adventures in Wonderland & Through the Looking-Glass,"Lewis Carroll, John Tenniel (Illustrator), Martin Gardner (Introduction)",4.06,English,9.78E+12,239,458299,94.0,9.78E+12
+19,10210.Jane_Eyre,Jane Eyre,"Charlotte Brontë, Michael Mason (Editor), Barnett Freedman (Illustrator)",4.13,English,9.78E+12,532,1624682,93.0,9.78E+12
+20,24280.Les_Mis_rables,Les Misérables,"Victor Hugo, Lee Fahnestock (Translator), Norman MacAfee (Translator)",4.18,English,1.00E+13,1463,682793,93.0,1.00E+13
+21,13079982-fahrenheit-451,Fahrenheit 451,Ray Bradbury,3.99,English,B0064CPN7I,194,1680139,92.0,B0064CPN7I
+22,13335037-divergent,Divergent,Veronica Roth (Goodreads Author),4.19,English,9.78E+12,487,2906258,94.0,9.78E+12
+23,7624.Lord_of_the_Flies,Lord of the Flies,William Golding,3.69,English,9.78E+12,182,2263259,86.0,9.78E+12
+24,18135.Romeo_and_Juliet,Romeo and Juliet,"William Shakespeare, Paul Werstine (Editor), Barbara A. Mowat (Editor), Paavo Emil Cajander (Translator)",3.75,English,9.78E+12,301,2055102,87.0,9.78E+12
+25,18144590-the-alchemist,The Alchemist,"Paulo Coelho (Goodreads Author), Alan R. Clarke (Translator), James Noel Smith (Illustrator)",3.88,English,9.78E+12,182,2107732,87.0,9.78E+12
+26,7144.Crime_and_Punishment,Crime and Punishment,"Fyodor Dostoyevsky, David McDuff (Translator)",4.22,English,9.78E+12,671,626897,94.0,9.78E+12
+27,22628.The_Perks_of_Being_a_Wallflower,The Perks of Being a Wallflower,Stephen Chbosky,4.2,English,1.00E+13,213,1250155,94.0,1.00E+13
+28,4671.The_Great_Gatsby,The Great Gatsby,"F. Scott Fitzgerald, Francis Scott Fitzgerald",3.92,English,1.00E+13,200,3775504,90.0,1.00E+13
+29,256683.City_of_Bones,City of Bones,Cassandra Clare (Goodreads Author),4.1,English,9.78E+12,485,1617465,92.0,9.78E+12
+30,375802.Ender_s_Game,Ender's Game,"Orson Scott Card, Stefan Rudnicki (Narrator), Harlan Ellison (Narrator)",4.3,English,9.78E+12,324,1131303,95.0,9.78E+12
+31,4667024-the-help,The Help,Kathryn Stockett (Goodreads Author),4.47,English,1.00E+13,451,2164011,98.0,1.00E+13
+32,8127.Anne_of_Green_Gables,Anne of Green Gables,L.M. Montgomery,4.26,English,9.78E+12,320,727685,95.0,9.78E+12
+33,3.Harry_Potter_and_the_Sorcerer_s_Stone,Harry Potter and the Sorcerer's Stone,"J.K. Rowling, Mary GrandPré (Illustrator)",4.47,English,1.00E+13,309,7048471,96.0,1.00E+13
+34,157993.The_Little_Prince,The Little Prince,"Antoine de Saint-Exupéry, Richard Howard (Translator), Ivan Minatti (Translator), Nguyễn Thành Vũ (Illustrator)",4.31,English,1.00E+13,93,1363048,95.0,1.00E+13
+35,24178.Charlotte_s_Web,Charlotte's Web,"E.B. White, Garth Williams (Illustrator), Rosemary Wells (Illustrations)",4.17,English,9.78E+12,184,1417302,94.0,9.78E+12
+36,890.Of_Mice_and_Men,Of Mice and Men,John Steinbeck,3.88,English,9.78E+12,103,1942168,90.0,9.78E+12
+37,18619684-the-time-traveler-s-wife,The Time Traveler's Wife,Audrey Niffenegger (Goodreads Author),3.97,English,9.78E+12,500,1573857,91.0,9.78E+12
+38,17245.Dracula,Dracula,"Bram Stoker, Nina Auerbach (Editor), David J. Skal (Editor)",4.0,English,9.78E+12,488,938325,93.0,9.78E+12
+39,5129.Brave_New_World,Brave New World,Aldous Huxley,3.99,English,9.78E+12,288,1441287,92.0,9.78E+12
+40,320.One_Hundred_Years_of_Solitude,One Hundred Years of Solitude,"Gabriel García Márquez, Gregory Rabassa (Translator)",4.08,English,1.00E+13,417,753470,90.0,1.00E+13
+41,5107.The_Catcher_in_the_Rye,The Catcher in the Rye,J.D. Salinger,3.81,English,9.78E+12,277,2736523,86.0,9.78E+12
+42,21787.The_Princess_Bride,The Princess Bride,William Goldman,4.26,English,9.78E+12,456,779597,95.0,9.78E+12
+43,28187.The_Lightning_Thief,The Lightning Thief,Rick Riordan (Goodreads Author),4.26,English,9.78E+12,375,1992300,95.0,9.78E+12
+44,2998.The_Secret_Garden,The Secret Garden,Frances Hodgson Burnett,4.13,English,9.78E+12,331,891374,95.0,9.78E+12
+45,128029.A_Thousand_Splendid_Suns,A Thousand Splendid Suns,Khaled Hosseini (Goodreads Author),4.38,English,9.78E+12,372,1151288,97.0,9.78E+12
+46,33574273-a-wrinkle-in-time,A Wrinkle in Time,Madeleine L'Engle,4.0,English,9.78E+12,218,1051535,91.0,9.78E+12
+47,13496.A_Game_of_Thrones,A Game of Thrones,George R.R. Martin,4.45,English,9.78E+12,835,2003043,96.0,9.78E+12
+48,2956.The_Adventures_of_Huckleberry_Finn,The Adventures of Huckleberry Finn,"Mark Twain, Guy Cardwell (Notes), John Seelye (Introduction), Walter Trier (Ilustrator)",3.82,English,9.78E+12,327,1151767,90.0,9.78E+12
+49,12232938-the-lovely-bones,The Lovely Bones,Alice Sebold,3.82,English,9.78E+12,372,2014401,89.0,9.78E+12
+50,231804.The_Outsiders,The Outsiders,S.E. Hinton (Goodreads Author),4.1,English,1.00E+13,192,938150,94.0,1.00E+13
+51,19543.Where_the_Wild_Things_Are,Where the Wild Things Are,Maurice Sendak,4.22,English,9.78E+12,37,816934,93.0,9.78E+12
+52,23772.Green_Eggs_and_Ham,Green Eggs and Ham,Dr. Seuss,4.3,English,9.78E+12,62,616631,95.0,9.78E+12
+53,1381.The_Odyssey,The Odyssey,"Homer, Robert Fagles (Translator), Bernard Knox (Introduction)",3.77,English,9.78E+12,541,861486,87.0,9.78E+12
+54,4214.Life_of_Pi,Life of Pi,Yann Martel,3.91,English,9.78E+12,460,1339076,90.0,9.78E+12
+55,1953.A_Tale_of_Two_Cities,A Tale of Two Cities,"Charles Dickens, Richard Maxwell (Editor/Introduction)",3.85,English,9.78E+12,489,810000,88.0,9.78E+12
+56,43641.Water_for_Elephants,Water for Elephants,Sara Gruen (Goodreads Author),4.09,English,9.78E+12,335,1379584,94.0,9.78E+12
+57,7604.Lolita,Lolita,"Vladimir Nabokov, Craig Raine (Afterword)",3.89,English,B00IIAQY3Q,331,663069,89.0,B00IIAQY3Q
+58,4981.Slaughterhouse_Five,Slaughterhouse-Five,Kurt Vonnegut Jr.,4.08,English,9.78E+12,275,1129210,92.0,9.78E+12
+59,35031085-frankenstein,Frankenstein: The 1818 Text,"Mary Wollstonecraft Shelley, Charlotte Gordon (Goodreads Author) (Introduction)",3.81,English,9.78E+12,288,1162638,89.0,9.78E+12
+60,77203.The_Kite_Runner,The Kite Runner,"Khaled Hosseini (Goodreads Author), Berliani M. Nugrahani (Translator)",4.3,English,1.00E+13,371,2424976,95.0,1.00E+13
+61,38447.The_Handmaid_s_Tale,The Handmaid's Tale,Margaret Atwood (Goodreads Author),4.11,English,1.00E+13,314,1459245,93.0,1.00E+13
+62,3636.The_Giver,The Giver,Lois Lowry (Goodreads Author),4.13,English,9.78E+12,208,1785054,94.0,9.78E+12
+63,168668.Catch_22,Catch-22,Joseph Heller,3.98,English,9.78E+12,453,723147,90.0,9.78E+12
+64,44767458-dune,Dune,Frank Herbert,4.23,English,9.78E+12,661,765785,94.0,9.78E+12
+65,5043.The_Pillars_of_the_Earth,The Pillars of the Earth,Ken Follett (Goodreads Author),4.31,English,1.00E+13,976,648793,95.0,1.00E+13
+66,149267.The_Stand,The Stand,"Stephen King (Goodreads Author), Bernie Wrightson (Illustrator)",4.34,English,9.78E+12,1153,616021,96.0,9.78E+12
+67,3590.The_Adventures_of_Sherlock_Holmes,The Adventures of Sherlock Holmes,Arthur Conan Doyle,4.3,English,1.00E+13,389,243129,98.0,1.00E+13
+68,76620.Watership_Down,Watership Down,Richard Adams,4.06,English,9.78E+12,478,433754,91.0,9.78E+12
+69,2623.Great_Expectations,Great Expectations,"Charles Dickens, Παυλίνα Παμπούδη (Translator), Marisa Sestino (Translator)",3.78,English,9.78E+12,505,651506,87.0,9.78E+12
+70,1934.Little_Women,Little Women,Louisa May Alcott,4.09,English,9.78E+12,449,1681583,93.0,9.78E+12
+71,6514.The_Bell_Jar,The Bell Jar,Sylvia Plath,4.01,English,1.00E+13,294,591175,93.0,1.00E+13
+72,136251.Harry_Potter_and_the_Deathly_Hallows,Harry Potter and the Deathly Hallows,J.K. Rowling,4.62,English,9.78E+12,759,2811637,98.0,9.78E+12
+73,332613.One_Flew_Over_the_Cuckoo_s_Nest,One Flew Over the Cuckoo's Nest,Ken Kesey,4.19,English,1.00E+13,325,630948,96.0,1.00E+13
+74,15823480-anna-karenina,Anna Karenina,"Leo Tolstoy, Aylmer Maude (Translator), Lev Tolstoi, Louise Maude (Translator), George Gibian (Preface)",4.05,English,1.00E+13,964,681953,92.0,1.00E+13
+75,10964.Outlander,Outlander,Diana Gabaldon (Goodreads Author),4.23,English,9.78E+12,850,824014,92.0,9.78E+12
+76,10917.My_Sister_s_Keeper,My Sister's Keeper,Jodi Picoult (Goodreads Author),4.08,English,9.78E+12,423,1056676,94.0,9.78E+12
+77,39988.Matilda,Matilda,"Roald Dahl, Quentin Blake (Illustrator)",4.32,English,9.78E+12,240,647667,97.0,9.78E+12
+78,3263607-the-fellowship-of-the-ring,The Fellowship of the Ring,J.R.R. Tolkien,4.36,English,9.78E+12,527,2355237,95.0,9.78E+12
+79,2429135.The_Girl_with_the_Dragon_Tattoo,The Girl with the Dragon Tattoo,"Stieg Larsson, Reg Keeland (Translator)",4.14,English,1.00E+13,465,2607860,93.0,1.00E+13
+80,17899948-rebecca,Rebecca,Daphne du Maurier,4.23,English,9.78E+12,449,450276,96.0,9.78E+12
+81,40961427-1984,1984,George Orwell,4.19,English,B003JTHWKU,237,3140442,94.0,B003JTHWKU
+82,52892857-the-color-purple,The Color Purple,Alice Walker,4.22,English,9.78E+12,304,521200,95.0,9.78E+12
+83,14891.A_Tree_Grows_in_Brooklyn,A Tree Grows in Brooklyn,Betty Smith,4.27,English,9.78E+12,496,388454,96.0,9.78E+12
+84,41817486-a-clockwork-orange,A Clockwork Orange,Anthony Burgess,3.99,English,9.78E+12,240,601048,92.0,9.78E+12
+85,6288.The_Road,The Road,Cormac McCarthy,3.97,English,9.78E+12,241,716197,90.0,9.78E+12
+86,4934.The_Brothers_Karamazov,The Brothers Karamazov,"Fyodor Dostoyevsky, Fyodor Dostoyevsky, Richard Pevear (Translator), Larissa Volokhonsky (Translator)",4.32,English,9.78E+12,796,243271,95.0,9.78E+12
+87,252577.Angela_s_Ashes,Angela's Ashes,Frank McCourt,4.11,English,9.78E+12,452,539576,94.0,9.78E+12
+88,345627.Vampire_Academy,Vampire Academy,Richelle Mead (Goodreads Author),4.12,English,9.78E+12,332,548959,92.0,9.78E+12
+89,52036.Siddhartha,Siddhartha,"Hermann Hesse, Hilda Rosner (Translator)",4.03,English,1.00E+13,152,582674,92.0,1.00E+13
+90,7244.The_Poisonwood_Bible,The Poisonwood Bible,Barbara Kingsolver,4.06,English,9.78E+12,546,658743,91.0,9.78E+12
+91,119322.The_Golden_Compass,The Golden Compass,Philip Pullman,3.99,English,9.78E+12,399,1284131,91.0,9.78E+12
+92,3836.Don_Quixote,Don Quixote,"Miguel de Cervantes Saavedra, John Rutherford (Translator), Roberto González Echevarría (Introduction)",3.88,English,9.78E+12,1023,209688,90.0,9.78E+12
+93,662.Atlas_Shrugged,Atlas Shrugged,"Ayn Rand, Leonard Peikoff (Goodreads Author) (Introduction)",3.69,English,9.78E+12,1168,353814,80.0,9.78E+12
+94,5.Harry_Potter_and_the_Prisoner_of_Azkaban,Harry Potter and the Prisoner of Azkaban,"J.K. Rowling, Mary GrandPré (Illustrator)",4.57,English,9.78E+12,435,2806471,99.0,9.78E+12
+95,2165.The_Old_Man_and_the_Sea,The Old Man and the Sea,Ernest Hemingway,3.78,English,9.78E+12,96,831152,87.0,9.78E+12
+96,33648131-the-notebook,The Notebook,Nicholas Sparks (Goodreads Author),4.11,English,B000Q67J66,227,1331152,91.0,B000Q67J66
+97,99107.Winnie_the_Pooh,Winnie-the-Pooh,"A.A. Milne, Ernest H. Shepard (Illustrator)",4.34,English,9.78E+12,145,270388,96.0,9.78E+12
+98,23919.The_Complete_Stories_and_Poems,The Complete Stories and Poems,Edgar Allan Poe,4.38,English,9.78E+12,821,220153,97.0,9.78E+12
+99,43763.Interview_with_the_Vampire,Interview with the Vampire,Anne Rice,4.0,English,9.78E+12,342,484530,93.0,9.78E+12
+100,4473.A_Prayer_for_Owen_Meany,A Prayer for Owen Meany,John Irving (Goodreads Author),4.23,English,9.78E+12,637,285954,94.0,9.78E+12
