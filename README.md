@@ -21,11 +21,14 @@ This project analyzes a book dataset using Python libraries like **Pandas, Matpl
 ✔ **Combine** visual elements into a coherent **dashboard** for better interactivity and dynamic insights.
 
 ## **Dashboard Interaction**
-![Description](https://github.com/Rathore13055/Book_Recommendation/blob/main/ss1.jpg)
-
 This project integrates an **interactive dashboard** to allow users to explore different book trends visually.
+![](ss1.jpg)
+![](ss2.jpg)
 
-![Desption](\https://github.com/Rathore13055/Book_Recommendation/blob/main/ss2.jpg)
+
+
+
+
 
 ## **Example Visualizations**
 The project includes various visualizations such as:
