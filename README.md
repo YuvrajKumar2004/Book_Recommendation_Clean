@@ -4,7 +4,7 @@
 This project analyzes a book dataset using Python libraries like **Pandas, Matplotlib, and Seaborn**. It includes **data cleaning, exploratory data analysis (EDA), visualizations, and clustering** to uncover trends in book ratings, authors, and languages. Insights can inform recommendation systems or predictive models.
 
 ## **Dataset Used**
-- [**BOOK DATA SET**](https://github.com/Rathore13055/Book_Recommendation/blob/main/file_updated2.csv)
+- [**BOOK DATA SET**](https://github.com/YuvrajKumar2004/Book_Recommendation_Clean/blob/main/file_updated2.csv)
 
 ## **Key Questions**
 - What are the most popular books based on ratings?
@@ -14,21 +14,17 @@ This project analyzes a book dataset using Python libraries like **Pandas, Matpl
 - Can clustering techniques help in categorizing books?
 
 ## **Process**
-✔ **Verify** data for missing values and inconsistencies, and clean the data accordingly.
-✔ **Ensure** data consistency in terms of format, types, and values.
-✔ **Utilize** visualization libraries like **Matplotlib, Seaborn, and Plotly** to represent the data effectively.
-✔ **Create** various types of plots and charts to answer key analytical questions.
+✔ **Verify** data for missing values and inconsistencies, and clean the data accordingly.  
+✔ **Ensure** data consistency in terms of format, types, and values.  
+✔ **Utilize** visualization libraries like **Matplotlib, Seaborn, and Plotly** to represent the data effectively.  
+✔ **Create** various types of plots and charts to answer key analytical questions.  
 ✔ **Combine** visual elements into a coherent **dashboard** for better interactivity and dynamic insights.
 
 ## **Dashboard Interaction**
 This project integrates an **interactive dashboard** to allow users to explore different book trends visually.
-![](ss1.jpg)
-![](ss2.jpg)
 
-
-
-
-
+![Dashboard Screenshot 1](ss1.jpg)  
+![Dashboard Screenshot 2](ss2.jpg)
 
 ## **Example Visualizations**
 The project includes various visualizations such as:
@@ -47,5 +43,5 @@ The project includes various visualizations such as:
 **Data visualization** plays a crucial role in extracting insights from complex datasets. By utilizing various visualization techniques, **businesses and researchers can better understand trends, make informed decisions, and improve overall efficiency.**
 
 ## **Author**
-📝 **KUMAR GAURAV**
-
+📝 **Yuvrajkumar**  
+📧 *yuvrajchaudhary8676@gmail.com*
